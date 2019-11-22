@@ -8,3 +8,4 @@ In this series of courses, we will go over the basics of the Python programming 
 Each week we will go through a notebook and fill in the coding exercises. You can then save the completed notebooks in your drives, and you will have access to them after the course is done. Here are the links to the notebooks with text and skeleton code:
 * [Notebook 01](./Python4n00bs_day_01.ipynb)
 * [Notebook 02](./Python4n00bs_day_02.ipynb)
+* [Notebook 03](./Python4n00bs_day_03.ipynb)
