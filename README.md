@@ -9,3 +9,14 @@ Each week we will go through a notebook and fill in the coding exercises. You ca
 * [Notebook 01](./Python4n00bs_day_01.ipynb)
 * [Notebook 02](./Python4n00bs_day_02.ipynb)
 * [Notebook 03](./Python4n00bs_day_03.ipynb)
+
+## Assignments
+You will work on a set of exercises each week to reinforce the concepts you learned in that week's class. Here are the links to the files containing the assignments:
+* [Exercises Week 01](./Exercises/SharedExercises.pdf)
+* [Exercises Week 02](./Exercises/FileExercises.pdf)
+* [Exercises Week 03](./Exercises/FunctionExercises.pdf)
+
+## Solutions
+Here you will find solutions to the exercises. There are many different ways of solving the same problem in Python, so these solutions are not the only possible solutions to the exercises. Try to solve the exercises on your own, and only refer to the solutions if you are completely stuck:
+* [Solutions Week 01](./Exercises/Solutions_Shared_Exercises.ipynb)
+* [Solutions Week 02](./Exercises/Solutions_File_Exercises.ipynb)
